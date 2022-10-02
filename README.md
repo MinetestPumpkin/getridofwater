@@ -8,3 +8,8 @@ remove water blocks from creative
 
 ## disables
 * any recipe that outputs water source
+
+## depends
+* default
+* caverealms (to make it load first)
+* noairblocks (to make it lod first)
